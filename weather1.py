@@ -2,7 +2,6 @@ import tkinter as tk
 from tkinter import scrolledtext, messagebox, ttk
 import random
 from datetime import datetime, timedelta
-
 # Database for soil, crops, and fertilizers
 soil_data = {
     "Loamy": {
